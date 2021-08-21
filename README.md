@@ -1,6 +1,6 @@
 # Youtube-Downloader 🎥
 
-Download mp4 files from youtube
+Python program to download mp4 files from youtube
 
 ## Disclaimer ❗ ❗
 
