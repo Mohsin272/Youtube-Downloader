@@ -1,2 +1,8 @@
-# Youtube-Downloader
+# Youtube-Downloader 🎥
+
 Download mp4 files from youtube
+
+## Disclaimer ❗ ❗
+
+WARNING: DOWNLOADING COPYRIGHTED MATERIAL IS HIGHLY ILLEGAL! I DO NOT TAKE ANY RESPONSIBILITY FOR YOUR USAGE OF THIS TOOL! THIS IS FOR EDUCATIONAL PURPOSES ONLY!
+
