@@ -10,7 +10,7 @@ print('********** Thumbnail Image **********')
 print(my_video.thumbnail_url)
 
 print('********** Select Resolution (ITAG) **********')
-# my_video=my_video.streams.get_highest_resolution()
+
 for stream in my_video.streams.filter(file_extension='mp4', type='video', progressive=True):
     print(stream)
 
